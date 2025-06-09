@@ -1060,13 +1060,17 @@ header {
 
 /* Text Styling */
 .about-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 48px;
+    font-family: 'Forum', sans-serif;
+    font-size: 40px;
     font-weight: 500;
     line-height: 1.3;
     color: #2C2C2C;
     margin-bottom: 24px;
     letter-spacing: -0.5px;
+}
+
+.about-title span {
+    font-weight: 900;
 }
 
 /* Story Button */
