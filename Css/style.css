@@ -288,12 +288,8 @@ header {
     position: relative;
 }
 
-.quote-icon {
-    font-size: 48px;
-    color: #ff6b35;
-    font-family: 'Playfair Display', serif;
-    line-height: 1;
-    margin-bottom: 12px;
+.quote-icon img {
+    height: 30px;
 }
 
 .testimonial-text {
