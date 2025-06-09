@@ -1069,15 +1069,6 @@ header {
     letter-spacing: -0.5px;
 }
 
-.about-description {
-    font-family: 'Inter', sans-serif;
-    font-size: 18px;
-    line-height: 1.6;
-    color: #6b7280;
-    margin-bottom: 40px;
-    font-weight: 400;
-}
-
 /* Story Button */
 .story-btn {
     background: #ff6b35;
@@ -1172,10 +1163,6 @@ header {
         font-size: 36px;
     }
 
-    .about-description {
-        font-size: 16px;
-    }
-
     .circular-image {
         width: 220px;
         height: 220px;
@@ -1195,11 +1182,6 @@ header {
     .about-title {
         font-size: 32px;
         margin-bottom: 20px;
-    }
-
-    .about-description {
-        font-size: 16px;
-        margin-bottom: 30px;
     }
 
     .story-btn {
